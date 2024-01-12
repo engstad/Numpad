@@ -1,0 +1,16 @@
+
+
+x        x
+x        gnd
+
+col0     3v3
+col1     row4
+col2     row0
+col3     x
+col4     x
+col5     row1
+col6     row2
+row3     gnd
+
+17.78
+21.78
